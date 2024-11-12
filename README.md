@@ -1,6 +1,6 @@
-## Latest updates -- SAM 2: Segment Anything in Images and Videos
+![struction](https://github.com/user-attachments/assets/e49dd023-316c-4f68-bcd4-d651fb4e3a67)## Latest updates -- Confidence-Aware To Boost Accuracy And Generalizability For Nuclei Segmentation
 
-Please check out our new release on [**Segment Anything Model 2 (SAM 2)**](https://github.com/facebookresearch/segment-anything-2).
+Please check out our new release on [**S-CAGNS**]![struction](https://github.com/user-attachments/assets/d48cd463-7fb2-4d2b-806e-3a23e7aa79da).
 
 * SAM 2 code: https://github.com/facebookresearch/segment-anything-2
 * SAM 2 demo: https://sam2.metademolab.com/
