@@ -1,6 +1,6 @@
 ![struction](https://github.com/user-attachments/assets/e49dd023-316c-4f68-bcd4-d651fb4e3a67)## Latest updates -- Confidence-Aware To Boost Accuracy And Generalizability For Nuclei Segmentation
 
-Please check out our new release on [**S-CAGNS**]![struction][S-CAGNS.pdf](https://github.com/user-attachments/files/17713755/S-CAGNS.pdf)
+Please check out our new release on [**S-CAGNS**]![struction]![S-CAGNS](https://github.com/user-attachments/assets/a39e9b74-de7c-4adb-b572-34a2a29a6acb)
 
 * SAM 2 code: https://github.com/facebookresearch/segment-anything-2
 * SAM 2 demo: https://sam2.metademolab.com/
