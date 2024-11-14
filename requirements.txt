@@ -1,0 +1,8 @@
+transformers==4.30.2 
+scipy 
+tensorboard 
+umap-learn
+plotly
+pandas
+nbformat
+tabulate
